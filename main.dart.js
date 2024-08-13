@@ -75728,31 +75728,31 @@ A.aa0.prototype={
 $0(){this.a.d=!1},
 $S:0}
 A.a9X.prototype={
-$2(a,b){var s,r,q,p,o,n,m,l=null,k=b.b,j=b.d,i=this.a,h=t.E,g=i.e,f=i.f
-if(k<800){s=j*0.4
-r=k*0.05
-g=A.tl(A.dx(l,new A.cd(B.cR,A.a5O(g,A.F1(l,B.dp,l,l,l,l,l,l,!0,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,A.e_(l,l,l,l,l,l,l,l,l,l,l,r,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),"Enter JSON here",l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l),!0,l),l),B.u,l,l,s,l,l,l),l,2,B.iR)
+$2(a,b){var s,r,q,p,o,n,m,l=null,k="Enter JSON here",j="Model will be displayed here",i=b.b,h=b.d,g=this.a,f=t.E,e=g.e,d=g.f
+if(i<800){s=h*0.4
+r=i*0.05
+e=A.tl(A.dx(l,new A.cd(B.cR,A.a5O(e,A.F1(l,B.dp,l,l,l,l,l,l,!0,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,A.e_(l,l,l,l,l,l,l,l,l,l,l,r,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),k,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l),!0,l),l),B.u,l,l,s,l,l,l),l,2,B.iR)
 q=A.lP(10)
-q=A.hT(l,A.dx(l,A.fQ(A.hk("Convert",l,l,l,A.e_(l,l,l,l,l,l,l,l,l,l,l,r,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l),l,l),B.u,l,new A.cS(B.j,l,l,q,l,l,B.az),k*0.07,l,l,k*0.3),B.aj,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.a9T(i),l,l,l,l,l,l)
-p=A.hf(l,j*0.01,l)
+q=A.hT(l,A.dx(l,A.fQ(A.hk("Convert",l,l,l,A.e_(l,l,l,l,l,l,l,l,l,l,l,r,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l),l,l),B.u,l,new A.cS(B.j,l,l,q,l,l,B.az),i*0.07,l,l,i*0.3),B.aj,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.a9T(g),l,l,l,l,l,l)
+p=A.hf(l,h*0.01,l)
 o=A.lP(10)
-n=k*0.1
-k*=0.055
-o=A.hT(l,A.dx(l,A.fQ(A.uO(B.mI,B.j,l,k),l,l),B.u,l,new A.cS(B.cO,l,l,o,l,l,B.az),n,l,l,n),B.aj,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.a9U(i),l,l,l,l,l,l)
+n=i*0.1
+i*=0.055
+o=A.hT(l,A.dx(l,A.fQ(A.uO(B.mI,B.j,l,i),l,l),B.u,l,new A.cS(B.cO,l,l,o,l,l,B.az),n,l,l,n),B.aj,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.a9U(g),l,l,l,l,l,l)
 m=A.lP(10)
-h=new A.HM(A.Do(A.b([g,A.tl(A.fQ(A.Do(A.b([q,p,A.ahV(A.b([o,A.hT(l,A.dx(l,A.uO(B.mJ,B.j,l,k),B.u,l,new A.cS(B.cO,l,l,m,l,l,B.az),n,l,l,n),B.aj,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.a9V(i),l,l,l,l,l,l)],h),5)],h),B.cd,B.jw,B.ct),l,l),B.B,l,l),A.tl(A.dx(l,new A.cd(B.cR,A.a5O(f,A.F1(l,B.dp,l,l,l,l,l,l,!0,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,A.e_(l,l,l,l,l,l,l,l,l,l,l,r,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),"Model will be displayed here",l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l),!0,l),l),B.u,l,l,s,l,l,l),l,2,B.iR)],h),B.lZ,B.cs,B.ct),l)
-k=h}else{s=k*0.02
-g=A.VK(A.tl(A.dx(l,new A.cd(B.cR,A.a5O(g,A.F1(l,B.dp,l,l,l,l,l,l,!0,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,A.e_(l,l,l,l,l,l,l,l,l,l,l,s,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),"Enter text here",l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l),!0,l),l),B.u,l,l,150,B.fa,l,l),l,2,l),8)
-r=k*0.03
+f=new A.HM(A.Do(A.b([e,A.tl(A.fQ(A.Do(A.b([q,p,A.ahV(A.b([o,A.hT(l,A.dx(l,A.uO(B.mJ,B.j,l,i),B.u,l,new A.cS(B.cO,l,l,m,l,l,B.az),n,l,l,n),B.aj,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.a9V(g),l,l,l,l,l,l)],f),5)],f),B.cd,B.jw,B.ct),l,l),B.B,l,l),A.tl(A.dx(l,new A.cd(B.cR,A.a5O(d,A.F1(l,B.dp,l,l,l,l,l,l,!0,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,A.e_(l,l,l,l,l,l,l,l,l,l,l,r,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),j,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l),!0,l),l),B.u,l,l,s,l,l,l),l,2,B.iR)],f),B.lZ,B.cs,B.ct),l)
+i=f}else{s=i*0.02
+e=A.VK(A.tl(A.dx(l,new A.cd(B.cR,A.a5O(e,A.F1(l,B.dp,l,l,l,l,l,l,!0,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,A.e_(l,l,l,l,l,l,l,l,l,l,l,s,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),k,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l),!0,l),l),B.u,l,l,150,B.fa,l,l),l,2,l),8)
+r=i*0.03
 q=A.lP(15)
-i=A.hT(l,A.dx(l,A.fQ(A.hk("Convert",l,l,l,A.e_(l,l,l,l,l,l,l,l,l,l,l,k*0.01,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l),l,l),B.u,l,new A.cS(B.j,l,l,q,l,l,B.az),r,l,l,1/0),B.aj,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.a9W(i),l,l,l,l,l,l)
-q=A.hf(l,j*0.05,l)
+g=A.hT(l,A.dx(l,A.fQ(A.hk("Convert",l,l,l,A.e_(l,l,l,l,l,l,l,l,l,l,l,i*0.01,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l),l,l),B.u,l,new A.cS(B.j,l,l,q,l,l,B.az),r,l,l,1/0),B.aj,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.a9W(g),l,l,l,l,l,l)
+q=A.hf(l,h*0.05,l)
 p=A.lP(10)
-k*=0.015
-p=A.dx(l,A.fQ(A.uO(B.mI,B.j,l,k),l,l),B.u,l,new A.cS(B.cO,l,l,p,l,l,B.az),r,l,l,r)
+i*=0.015
+p=A.dx(l,A.fQ(A.uO(B.mI,B.j,l,i),l,l),B.u,l,new A.cS(B.cO,l,l,p,l,l,B.az),r,l,l,r)
 o=A.lP(10)
-h=A.a3q(A.b([g,A.VK(A.tl(A.dx(l,new A.cd(B.cR,A.fQ(A.Do(A.b([i,q,A.ahV(A.b([p,A.dx(l,A.uO(B.mJ,B.j,l,k),B.u,l,new A.cS(B.cO,l,l,o,l,l,B.az),r,l,l,r)],h),5)],h),B.cd,B.jw,B.ct),l,l),l),B.u,l,l,l,B.fa,l,l),B.B,2,l),4),A.VK(A.tl(A.dx(l,new A.cd(B.cR,A.a5O(f,A.F1(l,B.dp,l,l,l,l,l,l,!0,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,A.e_(l,l,l,l,l,l,l,l,l,l,l,s,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),"Enter additional text here",l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l),!0,l),l),B.u,l,l,150,B.fa,l,l),l,2,l),8)],h),B.lZ,B.cs,B.ct)
-k=h}return new A.cd(B.me,k,l)},
+f=A.a3q(A.b([e,A.VK(A.tl(A.dx(l,new A.cd(B.cR,A.fQ(A.Do(A.b([g,q,A.ahV(A.b([p,A.dx(l,A.uO(B.mJ,B.j,l,i),B.u,l,new A.cS(B.cO,l,l,o,l,l,B.az),r,l,l,r)],f),5)],f),B.cd,B.jw,B.ct),l,l),l),B.u,l,l,l,B.fa,l,l),B.B,2,l),4),A.VK(A.tl(A.dx(l,new A.cd(B.cR,A.a5O(d,A.F1(l,B.dp,l,l,l,l,l,l,!0,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,A.e_(l,l,l,l,l,l,l,l,l,l,l,s,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),j,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l),!0,l),l),B.u,l,l,150,B.fa,l,l),l,2,l),8)],f),B.lZ,B.cs,B.ct)
+i=f}return new A.cd(B.me,i,l)},
 $S:431}
 A.a9T.prototype={
 $0(){var s=0,r=A.R(t.H),q=this
@@ -75781,7 +75781,7 @@ return A.P(null,r)}})
 return A.Q($async$$0,r)},
 $S:22}
 A.FH.prototype={
-N(a){return new A.vt(new A.uM(null),"Flutter Demo",A.y0(null,A.atu(B.X,B.H1),!0),null)}}
+N(a){return new A.vt(new A.uM(null),"Json2Model",A.y0(null,A.atu(B.X,B.H1),!0),null)}}
 A.u5.prototype={
 aT(a){var s,r,q=this.x,p=q.h(0,a)
 if(p!=null)return p
